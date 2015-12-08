@@ -1,0 +1,10 @@
+/* robozzle CSS */
+
+/*
+  fixes weird issue with scrollbars always showing up on devcard code
+*/
+.com-rigsomelight-devcards-markdown pre,
+.com-rigsomelight-devcards-test-line.com-rigsomelight-devcards-test-doc .com-rigsomelight-devcards-markdown pre,
+.com-rigsomelight-devcards-test-line pre {
+    overflow-x: auto !important;
+}

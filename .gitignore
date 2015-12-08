@@ -1,0 +1,5 @@
+.idea
+*.log
+*.iml
+target
+resources/public/js/compiled
